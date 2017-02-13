@@ -1,0 +1,17 @@
+- service: Web design
+  description: The look and feel of the website (UI, UX)
+
+- service: Web development
+  description: Building the website
+
+- service: Hosting
+  description: Somewhere for the website to live on the World Wide Web
+
+- service: Search engine optimisation (SEO)
+  description: Helping people find you
+
+- service: Accessibility
+  description: Web developer WCAG 2.0 audits
+
+- service: Graphic design
+  description: Designing logos, icons and brochures
